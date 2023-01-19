@@ -1,0 +1,133 @@
+body {
+    margin: 0%;
+    text-align: center;
+    background-color: white;
+    font-family: cursive;
+
+}
+
+h1 {
+
+    margin-top: 0px;
+    font-size: 5.26rem;
+    margin: 50px auto 0 autos;
+    color: #66BFBF;
+
+
+}
+
+h2 {
+
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+p {}
+
+.top-container {
+    background-color: #eaf6f6;
+    padding-top: 100px;
+}
+
+.profile {}
+
+
+
+
+.middle-container {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.bottom-container {
+
+    background-color: #eaf6f6;
+
+    padding: 50px 0 20px;
+
+}
+
+a {
+    color: #66bfbf;
+    margin: 10px, 20px;
+}
+
+a:hover {
+    color: #1009e1;
+}
+
+.top {
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.bottom {
+    position: absolute;
+    top: 323px;
+    left: 400px;
+}
+
+a {
+    color: #66BFBF;
+}
+
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+    line-height: 2;
+}
+
+.skills-code {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.music {
+    padding-right: 30px;
+    width: 25%;
+    float: right;
+}
+
+hr {
+    background-color: white;
+    border-color: #eaf6f6;
+    border-style: dotted NONE NONE;
+    border-width: 5px;
+
+    width: 5%;
+}
+
+.btn {
+    background-color: #66BFBF;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+
+.btn:hover {
+    background: #9dcca4;
+    text-decoration: none;
+}
+
+.bm {
+    text-align: center;
+}
+
+.copyright {
+    color: rgb(193, 193, 193);
+}
